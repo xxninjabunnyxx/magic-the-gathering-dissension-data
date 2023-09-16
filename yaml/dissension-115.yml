@@ -1,0 +1,119 @@
+---
+object: card
+id: e796a838-3599-4769-b90b-9bbbaad76fcb
+oracle_id: 4beec1a6-a9c6-471f-b6fa-c754a42ad227
+multiverse_ids:
+- 97086
+mtgo_id: 24025
+mtgo_foil_id: 24026
+tcgplayer_id: 13884
+cardmarket_id: 13020
+name: Jagged Poppet
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/e796a838-3599-4769-b90b-9bbbaad76fcb
+scryfall_uri: https://scryfall.com/card/dis/115/jagged-poppet?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.jpg?1593273638
+  normal: https://cards.scryfall.io/normal/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.jpg?1593273638
+  large: https://cards.scryfall.io/large/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.jpg?1593273638
+  png: https://cards.scryfall.io/png/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.png?1593273638
+  art_crop: https://cards.scryfall.io/art_crop/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.jpg?1593273638
+  border_crop: https://cards.scryfall.io/border_crop/front/e/7/e796a838-3599-4769-b90b-9bbbaad76fcb.jpg?1593273638
+mana_cost: "{1}{B}{R}"
+cmc: 3.0
+type_line: Creature — Ogre Warrior
+oracle_text: |-
+  Whenever Jagged Poppet is dealt damage, discard that many cards.
+  Hellbent — Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.
+power: '3'
+toughness: '4'
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords:
+- Hellbent
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e796a838-3599-4769-b90b-9bbbaad76fcb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4beec1a6-a9c6-471f-b6fa-c754a42ad227&unique=prints
+collector_number: '115'
+digital: false
+rarity: uncommon
+watermark: rakdos
+flavor_text: Few puppets are so willing.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Miracola
+artist_ids:
+- 9b465bde-3656-4495-ace4-af4ce29999ed
+illustration_id: 891c38c3-85db-42fb-90d5-c7bcf3a21a42
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14447
+penny_rank: 3994
+prices:
+  usd: '0.20'
+  usd_foil: '1.28'
+  usd_etched: 
+  eur: '0.55'
+  eur_foil: '0.05'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97086
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jagged+Poppet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jagged+Poppet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jagged+Poppet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13884?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jagged+Poppet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/24025?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

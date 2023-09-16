@@ -1,0 +1,21 @@
+---
+object: set
+id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+code: dis
+mtgo_code: dis
+arena_code: dis
+tcgplayer_id: 28
+name: Dissension
+uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+scryfall_uri: https://scryfall.com/sets/dis
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adis&unique=prints
+released_at: '2006-05-05'
+set_type: expansion
+card_count: 180
+printed_size: 180
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: rav
+block: Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/dis.svg?1694404800

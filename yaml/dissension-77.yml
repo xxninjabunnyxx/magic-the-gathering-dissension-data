@@ -1,0 +1,113 @@
+---
+object: card
+id: de5f6c39-55eb-4d8d-83cf-94652b07bc46
+oracle_id: ba4e4afb-24bb-47de-aba8-89d21b11d45c
+multiverse_ids:
+- 107492
+mtgo_id: 23995
+mtgo_foil_id: 23996
+tcgplayer_id: 13988
+cardmarket_id: 13124
+name: War's Toll
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/de5f6c39-55eb-4d8d-83cf-94652b07bc46
+scryfall_uri: https://scryfall.com/card/dis/77/wars-toll?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/e/de5f6c39-55eb-4d8d-83cf-94652b07bc46.jpg?1593273304
+  normal: https://cards.scryfall.io/normal/front/d/e/de5f6c39-55eb-4d8d-83cf-94652b07bc46.jpg?1593273304
+  large: https://cards.scryfall.io/large/front/d/e/de5f6c39-55eb-4d8d-83cf-94652b07bc46.jpg?1593273304
+  png: https://cards.scryfall.io/png/front/d/e/de5f6c39-55eb-4d8d-83cf-94652b07bc46.png?1593273304
+  art_crop: https://cards.scryfall.io/art_crop/front/d/e/de5f6c39-55eb-4d8d-83cf-94652b07bc46.jpg?1593273304
+  border_crop: https://cards.scryfall.io/border_crop/front/d/e/de5f6c39-55eb-4d8d-83cf-94652b07bc46.jpg?1593273304
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: |-
+  Whenever an opponent taps a land for mana, tap all lands that player controls.
+  If a creature an opponent controls attacks, all creatures that opponent controls attack if able.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/de5f6c39-55eb-4d8d-83cf-94652b07bc46/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aba4e4afb-24bb-47de-aba8-89d21b11d45c&unique=prints
+collector_number: '77'
+digital: false
+rarity: rare
+flavor_text: Razia, archangel of war, demands total commitment.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dana Knutson
+artist_ids:
+- 4eac683c-8c96-4f57-b8a4-ad7f7b7c44c7
+illustration_id: 65ae07fa-3efe-4f7a-9111-c3aee514a070
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3315
+penny_rank: 10594
+prices:
+  usd: '4.21'
+  usd_foil: '19.97'
+  usd_etched: 
+  eur: '2.50'
+  eur_foil: '8.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107492
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=War%27s+Toll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=War%27s+Toll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=War%27s+Toll
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13988?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=War%27s+Toll&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23995?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

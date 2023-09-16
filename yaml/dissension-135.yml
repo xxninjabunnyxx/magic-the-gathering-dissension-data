@@ -1,0 +1,119 @@
+---
+object: card
+id: 6373aedc-4385-4608-bfbc-1937d6528d28
+oracle_id: 3eab4c00-a8ae-4912-bee1-68376de700a3
+multiverse_ids:
+- 107293
+mtgo_id: 24121
+mtgo_foil_id: 24122
+tcgplayer_id: 13982
+cardmarket_id: 13118
+name: Vigean Hydropon
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/6373aedc-4385-4608-bfbc-1937d6528d28
+scryfall_uri: https://scryfall.com/card/dis/135/vigean-hydropon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/3/6373aedc-4385-4608-bfbc-1937d6528d28.jpg?1593273805
+  normal: https://cards.scryfall.io/normal/front/6/3/6373aedc-4385-4608-bfbc-1937d6528d28.jpg?1593273805
+  large: https://cards.scryfall.io/large/front/6/3/6373aedc-4385-4608-bfbc-1937d6528d28.jpg?1593273805
+  png: https://cards.scryfall.io/png/front/6/3/6373aedc-4385-4608-bfbc-1937d6528d28.png?1593273805
+  art_crop: https://cards.scryfall.io/art_crop/front/6/3/6373aedc-4385-4608-bfbc-1937d6528d28.jpg?1593273805
+  border_crop: https://cards.scryfall.io/border_crop/front/6/3/6373aedc-4385-4608-bfbc-1937d6528d28.jpg?1593273805
+mana_cost: "{1}{G}{U}"
+cmc: 3.0
+type_line: Creature — Plant Mutant
+oracle_text: |-
+  Graft 5 (This creature enters the battlefield with five +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+  Vigean Hydropon can't attack or block.
+power: '0'
+toughness: '0'
+colors:
+- G
+- U
+color_identity:
+- G
+- U
+keywords:
+- Graft
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6373aedc-4385-4608-bfbc-1937d6528d28/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3eab4c00-a8ae-4912-bee1-68376de700a3&unique=prints
+collector_number: '135'
+digital: false
+rarity: common
+watermark: simic
+flavor_text: Fruits of magic, roots in science.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony S. Waters
+artist_ids:
+- f009de11-3c8d-4663-b996-ca0c3e997fad
+illustration_id: 75b72846-3a30-4a73-a611-ab8369593c5d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18499
+penny_rank: 13224
+prices:
+  usd: '0.12'
+  usd_foil: '0.45'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.35'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107293
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vigean+Hydropon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vigean+Hydropon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vigean+Hydropon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13982?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vigean+Hydropon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/24121?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

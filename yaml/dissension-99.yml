@@ -1,0 +1,119 @@
+---
+object: card
+id: 5047e271-fbf1-402c-9eb9-0806e5988f76
+oracle_id: 00d8efa6-a2d9-4249-8da7-b45173675329
+multiverse_ids:
+- 107569
+mtgo_id: 24297
+mtgo_foil_id: 24298
+tcgplayer_id: 13976
+cardmarket_id: 13112
+name: Utopia Sprawl
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/5047e271-fbf1-402c-9eb9-0806e5988f76
+scryfall_uri: https://scryfall.com/card/dis/99/utopia-sprawl?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/0/5047e271-fbf1-402c-9eb9-0806e5988f76.jpg?1593273517
+  normal: https://cards.scryfall.io/normal/front/5/0/5047e271-fbf1-402c-9eb9-0806e5988f76.jpg?1593273517
+  large: https://cards.scryfall.io/large/front/5/0/5047e271-fbf1-402c-9eb9-0806e5988f76.jpg?1593273517
+  png: https://cards.scryfall.io/png/front/5/0/5047e271-fbf1-402c-9eb9-0806e5988f76.png?1593273517
+  art_crop: https://cards.scryfall.io/art_crop/front/5/0/5047e271-fbf1-402c-9eb9-0806e5988f76.jpg?1593273517
+  border_crop: https://cards.scryfall.io/border_crop/front/5/0/5047e271-fbf1-402c-9eb9-0806e5988f76.jpg?1593273517
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant Forest
+  As Utopia Sprawl enters the battlefield, choose a color.
+  Whenever enchanted Forest is tapped for mana, its controller adds an additional one mana of the chosen color.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5047e271-fbf1-402c-9eb9-0806e5988f76/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00d8efa6-a2d9-4249-8da7-b45173675329&unique=prints
+collector_number: '99'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spears
+artist_ids:
+- fce9030b-86bd-4439-b06a-920a1eeb184c
+illustration_id: 11cccf38-af17-4198-8d78-354f6744e58a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 432
+prices:
+  usd: '4.56'
+  usd_foil: '31.58'
+  usd_etched: 
+  eur: '1.74'
+  eur_foil: '10.47'
+  tix: '0.26'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107569
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Utopia+Sprawl&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Utopia+Sprawl&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Utopia+Sprawl
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13976?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Utopia+Sprawl&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/24297?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

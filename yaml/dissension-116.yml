@@ -1,0 +1,132 @@
+---
+object: card
+id: aa9cb544-fa42-4671-917d-e08c582f7657
+oracle_id: b5ff42a1-1ac4-472b-8479-5e3749845305
+multiverse_ids:
+- 107557
+mtgo_id: 24289
+mtgo_foil_id: 24290
+tcgplayer_id: 13887
+cardmarket_id: 13023
+name: Leafdrake Roost
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/aa9cb544-fa42-4671-917d-e08c582f7657
+scryfall_uri: https://scryfall.com/card/dis/116/leafdrake-roost?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/a/aa9cb544-fa42-4671-917d-e08c582f7657.jpg?1593273646
+  normal: https://cards.scryfall.io/normal/front/a/a/aa9cb544-fa42-4671-917d-e08c582f7657.jpg?1593273646
+  large: https://cards.scryfall.io/large/front/a/a/aa9cb544-fa42-4671-917d-e08c582f7657.jpg?1593273646
+  png: https://cards.scryfall.io/png/front/a/a/aa9cb544-fa42-4671-917d-e08c582f7657.png?1593273646
+  art_crop: https://cards.scryfall.io/art_crop/front/a/a/aa9cb544-fa42-4671-917d-e08c582f7657.jpg?1593273646
+  border_crop: https://cards.scryfall.io/border_crop/front/a/a/aa9cb544-fa42-4671-917d-e08c582f7657.jpg?1593273646
+mana_cost: "{3}{G}{U}"
+cmc: 5.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant land
+  Enchanted land has "{G}{U}, {T}: Create a 2/2 green and blue Drake creature token with flying."
+colors:
+- G
+- U
+color_identity:
+- G
+- U
+keywords:
+- Enchant
+all_parts:
+- object: related_card
+  id: c06d2c07-7d3e-46e3-86f0-7ceba3b0aee0
+  component: token
+  name: Drake
+  type_line: Token Creature — Drake
+  uri: https://api.scryfall.com/cards/c06d2c07-7d3e-46e3-86f0-7ceba3b0aee0
+- object: related_card
+  id: aa9cb544-fa42-4671-917d-e08c582f7657
+  component: combo_piece
+  name: Leafdrake Roost
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/aa9cb544-fa42-4671-917d-e08c582f7657
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aa9cb544-fa42-4671-917d-e08c582f7657/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab5ff42a1-1ac4-472b-8479-5e3749845305&unique=prints
+collector_number: '116'
+digital: false
+rarity: uncommon
+watermark: simic
+flavor_text: |-
+  "The best experiments are those whose successes replicate themselves."
+  —Yolov, Simic bioengineer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nick Percival
+artist_ids:
+- d5dc3c78-b4d0-4e0a-8bfb-fd7b1c36a5e4
+illustration_id: 1444b395-4a4b-4ebf-93b9-5eec73a7d465
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18899
+penny_rank: 13834
+prices:
+  usd: '0.11'
+  usd_foil: '0.48'
+  usd_etched: 
+  eur: '0.04'
+  eur_foil: '0.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107557
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Leafdrake+Roost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Leafdrake+Roost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Leafdrake+Roost
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13887?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Leafdrake+Roost&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/24289?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

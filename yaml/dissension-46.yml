@@ -1,0 +1,113 @@
+---
+object: card
+id: 6a4e4be5-e057-4b50-9f86-76bc0b9987de
+oracle_id: 68a203a3-2283-4e29-b177-b3be43f76899
+multiverse_ids:
+- 107308
+mtgo_id: 24133
+mtgo_foil_id: 24134
+tcgplayer_id: 13882
+cardmarket_id: 13018
+name: Infernal Tutor
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/6a4e4be5-e057-4b50-9f86-76bc0b9987de
+scryfall_uri: https://scryfall.com/card/dis/46/infernal-tutor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.jpg?1593272922
+  normal: https://cards.scryfall.io/normal/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.jpg?1593272922
+  large: https://cards.scryfall.io/large/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.jpg?1593272922
+  png: https://cards.scryfall.io/png/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.png?1593272922
+  art_crop: https://cards.scryfall.io/art_crop/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.jpg?1593272922
+  border_crop: https://cards.scryfall.io/border_crop/front/6/a/6a4e4be5-e057-4b50-9f86-76bc0b9987de.jpg?1593272922
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.
+  Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle.
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Hellbent
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6a4e4be5-e057-4b50-9f86-76bc0b9987de/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68a203a3-2283-4e29-b177-b3be43f76899&unique=prints
+collector_number: '46'
+digital: false
+rarity: rare
+watermark: rakdos
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 027d5022-c450-4638-b85e-091b87c385b4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14023
+prices:
+  usd: '5.91'
+  usd_foil: '58.84'
+  usd_etched: 
+  eur: '2.29'
+  eur_foil: '39.89'
+  tix: '0.38'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Infernal+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Infernal+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Infernal+Tutor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13882?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Infernal+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/24133?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,116 @@
+---
+object: card
+id: 17a3f95c-5a05-46ea-8dc6-b77b59324035
+oracle_id: 3adb7681-977f-4a32-9ec8-51481b958268
+multiverse_ids:
+- 97098
+mtgo_id: 24045
+mtgo_foil_id: 24046
+tcgplayer_id: 13931
+cardmarket_id: 13067
+name: Rakdos Signet
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/17a3f95c-5a05-46ea-8dc6-b77b59324035
+scryfall_uri: https://scryfall.com/card/dis/165/rakdos-signet?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/7/17a3f95c-5a05-46ea-8dc6-b77b59324035.jpg?1593274030
+  normal: https://cards.scryfall.io/normal/front/1/7/17a3f95c-5a05-46ea-8dc6-b77b59324035.jpg?1593274030
+  large: https://cards.scryfall.io/large/front/1/7/17a3f95c-5a05-46ea-8dc6-b77b59324035.jpg?1593274030
+  png: https://cards.scryfall.io/png/front/1/7/17a3f95c-5a05-46ea-8dc6-b77b59324035.png?1593274030
+  art_crop: https://cards.scryfall.io/art_crop/front/1/7/17a3f95c-5a05-46ea-8dc6-b77b59324035.jpg?1593274030
+  border_crop: https://cards.scryfall.io/border_crop/front/1/7/17a3f95c-5a05-46ea-8dc6-b77b59324035.jpg?1593274030
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: "{1}, {T}: Add {B}{R}."
+colors: []
+color_identity:
+- B
+- R
+keywords: []
+produced_mana:
+- B
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/17a3f95c-5a05-46ea-8dc6-b77b59324035/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3adb7681-977f-4a32-9ec8-51481b958268&unique=prints
+collector_number: '165'
+digital: false
+rarity: common
+watermark: rakdos
+flavor_text: Made of bone and boiled in blood, a Rakdos signet is not considered finished
+  until it has been used as a murder weapon.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Hildebrandt
+artist_ids:
+- 020f967b-0d2f-4166-aabe-901dba8bc7ec
+illustration_id: 6c7f7ade-5852-4fc2-8eab-e17cb1213e92
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 104
+penny_rank: 1129
+prices:
+  usd: '0.87'
+  usd_foil: '15.82'
+  usd_etched: 
+  eur: '0.64'
+  eur_foil: '8.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97098
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rakdos+Signet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rakdos+Signet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rakdos+Signet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13931?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rakdos+Signet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/24045?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

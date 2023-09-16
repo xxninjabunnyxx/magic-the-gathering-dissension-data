@@ -1,0 +1,121 @@
+---
+object: card
+id: '06824d21-600b-44cd-8b51-0d8379cb0b47'
+oracle_id: 3f806353-592e-431c-a7dd-a4c64034f94d
+multiverse_ids:
+- 107437
+mtgo_id: 23988
+mtgo_foil_id: 23989
+tcgplayer_id: 13820
+cardmarket_id: 12956
+name: Avatar of Discord
+lang: en
+released_at: '2006-05-05'
+uri: https://api.scryfall.com/cards/06824d21-600b-44cd-8b51-0d8379cb0b47
+scryfall_uri: https://scryfall.com/card/dis/140/avatar-of-discord?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.jpg?1593273844
+  normal: https://cards.scryfall.io/normal/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.jpg?1593273844
+  large: https://cards.scryfall.io/large/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.jpg?1593273844
+  png: https://cards.scryfall.io/png/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.png?1593273844
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.jpg?1593273844
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/06824d21-600b-44cd-8b51-0d8379cb0b47.jpg?1593273844
+mana_cost: "{B/R}{B/R}{B/R}"
+cmc: 3.0
+type_line: Creature — Avatar
+oracle_text: |-
+  ({B/R} can be paid with either {B} or {R}.)
+  Flying
+  When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.
+power: '5'
+toughness: '3'
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fdebeda1-b95f-4343-8a94-d125821e6b5c
+set: dis
+set_name: Dissension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/06824d21-600b-44cd-8b51-0d8379cb0b47/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3f806353-592e-431c-a7dd-a4c64034f94d&unique=prints
+collector_number: '140'
+digital: false
+rarity: rare
+watermark: rakdos
+flavor_text: Such is the power of Rakdos that even his shadow takes on a cruel life
+  of its own.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: rk post
+artist_ids:
+- 81ae0f3f-1d88-4125-9aeb-b15b4c734c82
+illustration_id: 0ca2e67c-d758-4a1e-b550-848ad28c14b6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18179
+penny_rank: 9578
+prices:
+  usd: '0.35'
+  usd_foil: '7.89'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '1.94'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107437
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Avatar+of+Discord&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Avatar+of+Discord&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Avatar+of+Discord
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13820?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Avatar+of+Discord&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23988?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
